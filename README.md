@@ -175,3 +175,18 @@ workbook.save(output_file)
 
 print(f"Form data successfully written to {output_file}")
 print(filename)
+
+
+
+
+
+
+Clear aims, establish clarity. An example of an aim? How many? How to determine focus?
+Do we make video sessions system focus? Defense/Offense?
+
+Conduct video analysis around the principles of your game/organization.
+
+Do they have a metric that they personally use to define a video session as success or failure? (This is dependent on age)
+
+If it is a safe environment and how we deliver is more important than the clip being good/bad.
+Can you get the players to do their own self-analysis?
